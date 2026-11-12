@@ -1,0 +1,28 @@
+{
+  "requests": [
+    {
+      "id": "Maps",
+      "start": "2026-12-01",
+      "end": "2026-12-09",
+      "priority": 7
+    },
+    {
+      "id": "Prints",
+      "start": "2026-12-07",
+      "end": "2026-12-17",
+      "priority": 10
+    },
+    {
+      "id": "Textiles",
+      "start": "2026-12-09",
+      "end": "2026-12-15",
+      "priority": 6
+    },
+    {
+      "id": "Ceramics",
+      "start": "2026-12-17",
+      "end": "2026-12-27",
+      "priority": 8
+    }
+  ]
+}

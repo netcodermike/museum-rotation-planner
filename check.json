@@ -1,0 +1,14 @@
+{
+  "command": [
+    "{python}",
+    "app.py"
+  ],
+  "expected": {
+    "selected": [
+      "Maps",
+      "Textiles",
+      "Ceramics"
+    ],
+    "priority": 21
+  }
+}
